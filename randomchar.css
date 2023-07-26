@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#full{
+    display: flex;
+justify-content: space-evenly;
+font-weight: bolder;
+font-size: xx-large;
+}
+#box1{
+    padding-top: 50px;
+    padding-bottom: 70px;
+    margin-left: 400px;
+    margin-right: 500px;
+    margin-top: 200px;
+    background-color: chartreuse;
+    text-align: center;
+    border-style: dotted;
+}
+#gameover{
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 500px;
+    margin-top: 200px;
+}
